@@ -2996,6 +2996,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [DABYTE AI Visibility Index](https://dabyte.ai) `https://dabyte.ai/mcp`
   [![DABYTE MCP connector](https://glama.ai/mcp/connectors/ai.dabyte/visibility-index/badges/score.svg)](https://glama.ai/mcp/connectors/ai.dabyte/visibility-index)
   🔓 - Weekly share of answer for 20 SaaS and AI brands in ChatGPT, Perplexity and Gemini.
+- [d8a.tech](https://d8a.tech) `https://app.d8a.tech/mcp`
+  [![d8a.tech MCP connector](https://glama.ai/mcp/connectors/tech.d8a.app/d8atech/badges/score.svg)](https://glama.ai/mcp/connectors/tech.d8a.app/d8atech)
+  🔐 - Web analytics from your GA4 tracking: traffic, sources, conversions, funnels, user paths and tracking audits.
 - [DashThis](https://dashthis.com) `https://mcp.dashthis.com`
   [![DashThis MCP connector](https://glama.ai/mcp/connectors/com.dashthis/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.dashthis/mcp)
   🔐 - Work with your marketing reporting dashboards and turn the numbers into client-ready updates.
